@@ -1,6 +1,6 @@
 
 # Online Python - IDE, Editor, Compiler, Interpreter
-
+# Deneme
 def quad1(a, b, c):
     determ=(b*b-4*a*c)**0.5
     x=(-b+determ)/(2*a)

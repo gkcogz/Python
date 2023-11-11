@@ -1,3 +1,2 @@
 # Python
-# Python codes
-Bu python kodu denemedir. 
+Python codes. Bu python kodu denemedir. 

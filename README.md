@@ -1,3 +1,3 @@
 # Python
-Python codes
+Python codes/
 Bu python kodu denemedir. 

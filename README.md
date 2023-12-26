@@ -1,2 +1,2 @@
 # Python
-On my profile, you will find chapters of 'Python without Fear' by Brian Overland. And Notion notes.
+I have chapters of 'Python without Fear' by Brian Overland on my profile, along with Notion notes.

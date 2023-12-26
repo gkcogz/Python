@@ -1,2 +1,2 @@
 # Python
-Python codes. Bu python kodu denemedir. 
+On my profile, you will find the chapter of Python without Fear by Brian Overland. And Notion notes.

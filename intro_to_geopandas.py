@@ -1,3 +1,7 @@
+
+# All rights reserved by GeoDeltaLabs
+# https://www.youtube.com/watch?v=t7lliJXFt8w&ab_channel=GeoDeltaLabs
+
 import geopandas as gpd
 import matplotlib.pyplot as plt
 
